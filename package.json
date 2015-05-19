@@ -1,8 +1,7 @@
 {
   "name": "bootswatch-less",
-  "version": "3.3.2",
+  "version": "3.3.3",
   "description": "less files for bootswatch",
-  "registry": "jspm",
   "repository": {
     "type": "git",
     "url": "git@github.com:distros/bootswatch-less.git"
