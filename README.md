@@ -5,9 +5,9 @@ This should be used when compiling bootswatch from source using less.
 
 Total filesize is about 600 kb.
 
-Should be used with the [`bootstrap-less`](https://www.npmjs.com/package/bootstrap-less) package.
+Should be used with the [bootstrap-less](https://www.npmjs.com/package/bootstrap-less) package.
 
-This package should be added to your less `paths` settings:
+This package should be added to your less `paths` settings.
 
     gulp.pipe(less({
         paths: [
@@ -16,7 +16,7 @@ This package should be added to your less `paths` settings:
         ]
     }))
 
-Then bootswatch files can be included in any less file:
+Then bootswatch files can be included in any less file.
 
 	@import "bootswatch/cyborg/variables";
 	@import "bootswatch/cyborg/bootswatch";
